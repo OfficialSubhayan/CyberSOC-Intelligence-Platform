@@ -217,8 +217,6 @@ This project demonstrates practical knowledge of:
 | **Sayar Sekhar Ghosh** | AI Integration & Testing |
 | **Subhayan Mitra** | Backend Development, Database Connectivity, Project Integration & GitHub Management |
 
-GitHub: https://github.com/OfficialSubhayan
-Linkdln: https://www.linkedin.com/in/subhayan-mitra
 ---
 
 ## ⭐ Support
